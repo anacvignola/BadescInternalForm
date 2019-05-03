@@ -18,7 +18,7 @@
               <div class="col-12 col-md-12" id="top">
               <img src="assets/img/logoalodicol.png" id="logotop">
               <br>
-              <p id="description">Preencha o formulário abaixo para falar diretamente com nossa DICOL.</p>
+              <p id="description">Fill out the form below to speak directly with our board of directors.</p>
             </div>
         </header>
          <div class="col-12 col-md-12 col-lg-12 justify-content-center">
