@@ -36,7 +36,7 @@
                     <input id="subject" name="subject" class="form-control" type="text" placeholder="Subject" required />
                 </div>
                 <div class="form-group">
-                    <label for="message">Mensagem:*</label>
+                    <label for="message">Message:*</label>
                     <span><textarea maxlength="2000" id="message" name="message" placeholder="Your message..." required></textarea></span>
                 </div>
                 <div class="form-check-inline">
