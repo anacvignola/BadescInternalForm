@@ -8,7 +8,7 @@ A contact form I made for an internal BADESC website, made with HTML, CSS, [Boot
 
 * TThen edit the 
 
-          "send.php" 
+      "send.php" 
           
  file with your email data in the lines shown below.
 
