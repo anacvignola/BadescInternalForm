@@ -6,11 +6,7 @@ A contact form I made for an internal BADESC website, made with HTML, CSS, [Boot
                 
       git clone
 
-* TThen edit the 
-
-      "send.php" 
-          
- file with your email data in the lines shown below.
+* Then edit the "send.php" file with your email data in the lines shown below.
 
       $mail->Host = 'email.domain.com';  // Specify main and backup SMTP servers
       $mail->SMTPAuth = true;                               // Enable SMTP authentication
